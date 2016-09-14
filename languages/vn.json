@@ -1,0 +1,33 @@
+{
+  "lang": "Ngôn ngữ",
+
+  "home": "Trang chủ",
+  "explore": "Khám phá",
+  "howitworks": "Chúng tôi là ai",
+  "startacampaign": "Tạo dự án",
+
+  "register": "Đăng ký",
+  "login": "Đăng nhập",
+
+  "profile": "Trang cá nhân",
+  "mycontribution": "Dự án đã đóng góp",
+  "logout": "Đăng xuất",
+
+  "feature_project": "Dự án nổi bật",
+
+  "learnmore": "Tìm hiểu thêm",
+  "backit": "Ủng hộ",
+  "whois": "Chúng tôi là ai",
+  "quote_part_1": "Mục tiêu của chúng tôi chính là đem lại cơ hội thực hiện",
+  "quote_part_2": "khả năng tự lập tài chính của lứa đôi",
+  "quote_part_3": "khi tổ chức đám cưới",
+
+  "email": "Email",
+  "password": "Mật khẩu",
+
+  "loginpage": "Login Page",
+  "fullname": "Full Name",
+  "events": "Events",
+  "firstName": "Tên",
+  "lastName": "Họ"
+}
